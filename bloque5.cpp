@@ -3,7 +3,7 @@
 //[precision * 3]'. Agrega dos Arqueros al vector partida del Bloque 4 y ejecuta la ronda de combate. Los
 //Arqueros deben aparecer en el bucle for sin modificarlo. Recuerda agregar 'delete' para cada new
 //Arquero.
-
+ 
 //1. Clase Arquero
 class Arquero : public Personaje {
 public:
