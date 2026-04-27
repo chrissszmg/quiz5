@@ -1,7 +1,7 @@
 
  //BLOQUE 3 FUNCIONES VIRTUALES -- virtual y override
 
-#include <iostream>
+#include <iostream> 
 using namespace std;
 // Paso 1. Localiza class Personaje en rpg.cpp. Agrega la funcion virtual atacar() dentro de public:, justo antes
 // del destructor ~Personaje():
