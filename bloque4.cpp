@@ -1,6 +1,6 @@
 //BLOQUE 4 POLIMORFISMO -- vector<Personaje*>, motor arranca todos
 //Paso 1. Convierte el destructor de Personaje en virtual. Localiza '~Personaje() {}' en la clase y agrega
-//'virtual':
+//'virtual': 
 // En class Personaje, reemplaza el destructor por:
 //virtual ~Personaje() {}
 class Personaje {
