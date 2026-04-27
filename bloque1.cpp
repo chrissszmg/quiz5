@@ -1,4 +1,4 @@
-//Completa los huecos ___ (en morado) -- luego ejecuta: 
+//Completa los huecos ___ (en morado) -- luego ejecuta:  
 #include <iostream>
 #include <string>
 using namespace std;
