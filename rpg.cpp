@@ -9,7 +9,7 @@ struct Espada {
 string nombre; // public por defecto
 int dano;
 }; // <-- quita este ';' y mira el error del compilador
-
+ 
 /*
 int main() {
 Espada e;
