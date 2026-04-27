@@ -3,7 +3,7 @@
 
 class Guerrero : public Personaje { // hereda de Personaje
 public:
-    
+     
 
 Guerrero(string nombre, int vida, int nivel,
 string arma, int fuerza)
